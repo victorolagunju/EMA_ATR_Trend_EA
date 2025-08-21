@@ -42,4 +42,4 @@ This EA is provided for educational and demonstration purposes. Trading involves
 ---
 
 ## License
-MIT License (or choose a license you prefer)
+MIT License
